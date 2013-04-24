@@ -1,0 +1,1113 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: t1JZo+H52kjdyp59UAsQLW4tLF4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: t+XAnUq4xcpNZlLUANv/XaP9BoY=
+
+Name: org/eclipse/rap/internal/design/example/managers/CoolBarManager$
+ 4.class
+SHA1-Digest: qZtLG68hmrDZoh8VGgHz6HMo/eE=
+
+Name: img/fancy/footer_right.png
+SHA1-Digest: r8jnmiUsUol4dEngwXG2ZjqWxNg=
+
+Name: org/eclipse/rap/internal/design/example/ILayoutSetConstants.clas
+ s
+SHA1-Digest: whHdiUhR4wwz/+WpBiIRQ7Bj+4U=
+
+Name: img/fancy/stack_tab_inactive_close_active.png
+SHA1-Digest: FSMoOqnaXdxPCfjtWDVNu8FFZbI=
+
+Name: RAP Fancy design.launch
+SHA1-Digest: ZdVoUGcQyTsqnjYtkv0ppKWcj1w=
+
+Name: img/fancy/stack_tab_active_close_active.png
+SHA1-Digest: 7smnJLtWPxYdEqd0sYQiN8er8aw=
+
+Name: theme/resources/button/check-unselected-hover.png
+SHA1-Digest: XMDvJgXwaEjl7l/t0+e5G43EPHE=
+
+Name: org/eclipse/rap/internal/design/example/business/builder/HeaderB
+ uilder.class
+SHA1-Digest: YVSIt6xPPvkGnJWUN01zdHP1cBo=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$6.class
+SHA1-Digest: oXB4TltKJ1CM5E9eboF9FhaR6g0=
+
+Name: theme/resources/tooltip/warning.png
+SHA1-Digest: rBDm2eoEzjlohg4dLTJVRY92uJc=
+
+Name: img/fancy/menubar_bg.png
+SHA1-Digest: cO8CxUcBZzjnv/cQIuuFabfeih0=
+
+Name: org/eclipse/rap/internal/design/example/managers/CoolBarManager$
+ StylingSelectionAdapter.class
+SHA1-Digest: ln4ebGpxqhurVesWlZAwzJ0/v3Y=
+
+Name: img/business/trans.png
+SHA1-Digest: Ts5ubU/omwZIUDmAb+3gv4pFeYc=
+
+Name: img/business/toolbar_overflow.png
+SHA1-Digest: pZcBoeuOtbaYapIqpASIuDfgmE8=
+
+Name: theme/fancy/icons/ctabfolder-dropdown-hover.png
+SHA1-Digest: QMjBO9J2Y1pV6Hn0YlbLbav7XQo=
+
+Name: img/fancy/stack_tab_overflow_active.png
+SHA1-Digest: L8qryTfIJsVzxZvJrjM9V8JQ/Pw=
+
+Name: theme/fancy/icons/down-hover.png
+SHA1-Digest: e4KsRzD1KeyungvCvi0vNyqKo9s=
+
+Name: theme/resources/colorselector/huesaturation-field.jpg
+SHA1-Digest: qEQDB/y6txXmMXARiFS66QaVdLE=
+
+Name: theme/resources/calendar/lastYear.png
+SHA1-Digest: T0FQA3jZ1jmC6Zh4F1iJVZ1yx80=
+
+Name: img/fancy/viewMenu.png
+SHA1-Digest: SRZfnypBS87wauqu5zvsrWr5ANo=
+
+Name: org/eclipse/rap/internal/design/example/builder/PerspectiveSwitc
+ herBuilder$4.class
+SHA1-Digest: I/+NWB7tIFVk6cGWngeco2LrnEs=
+
+Name: theme/resources/tree/tree-expanded-hover.png
+SHA1-Digest: 0dLdSM9NsKHGpFCEUNnuW3IciyU=
+
+Name: img/fancy/menu_arrow_hover.png
+SHA1-Digest: atK65IAVg3HwaTFKWpMog0kR1fI=
+
+Name: theme/resources/ctabfolder/minimize.gif
+SHA1-Digest: YniMI5kjyR7OB9JT1y2c4qkGQTY=
+
+Name: theme/resources/button/radio-selected.png
+SHA1-Digest: Z/EZWBsiuL0eNt84FNbdFD/APkM=
+
+Name: img/fancy/perspective_bg.png
+SHA1-Digest: cvByvtrk5VRwl6hB6urcxcyvTqg=
+
+Name: theme/fancy/icons/expanditem-collapse-hover.png
+SHA1-Digest: fPLCB7wrzBPQn8G50CY3TSPMjkI=
+
+Name: theme/resources/button/check-selected-hover.png
+SHA1-Digest: qkLWLRzMAc3shiL1m1C9+Ev83Jc=
+
+Name: theme/fancy/icons/ctabfolder-dropdown.png
+SHA1-Digest: IPN9hyokVZXIW9xStihUFPeIrMg=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/LogoIni
+ tializer.class
+SHA1-Digest: L57yuL65hIo1H2l9YGVij36mh60=
+
+Name: img/fancy/perspective_right_active.png
+SHA1-Digest: n9ik5NBnu3gMHYJCEFiJV8UX4lM=
+
+Name: img/business/toolbar_overflow_hover_active.png
+SHA1-Digest: 6qwgllnyNZcX5Wm68OCHMw+jOEA=
+
+Name: theme/resources/scrollbar/left.png
+SHA1-Digest: kE7ThvNgy7/lorYjNCdgfAtrt58=
+
+Name: img/business/toolbar_arrow.png
+SHA1-Digest: AiOvftc9dJe+wtdd4klnPAz1KUw=
+
+Name: org/eclipse/rap/internal/design/example/managers/CoolBarManager$
+ 1.class
+SHA1-Digest: /myvYgBZT0/YKFpEwYEiVBA+omI=
+
+Name: img/fancy/toolbar_overflow_layer_right.png
+SHA1-Digest: RuVlOhZGuz3CiPYzEyJncAEzVPU=
+
+Name: theme/resources/expanditem/expanditem-collapse-hover.png
+SHA1-Digest: fSV8hyxr5d238asn0HCTitbOmgA=
+
+Name: theme/resources/button/check-selected.png
+SHA1-Digest: ph/3EyAm8uFfR1I7IMq/JgiEWCE=
+
+Name: theme/resources/datetime/up_button.gif
+SHA1-Digest: JcqbcG+pW6mrAa9A4RqjdJ4xAFc=
+
+Name: theme/fancy/icons/progress.png
+SHA1-Digest: nsZz9LzyvGLRMnBteOtT8RxekhI=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ConfigurationDial
+ og.class
+SHA1-Digest: w/DdliFUrf30vnBCKHxLJa6258U=
+
+Name: img/fancy/stack_tab_conf_active.png
+SHA1-Digest: 3x3gaIXQH9ldR07i5+Mzgo45lfM=
+
+Name: img/business/favicon.png
+SHA1-Digest: LvyxlzmEyEmcn0B5n0ATO7XVfig=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Stac
+ kInitializer.class
+SHA1-Digest: OplFxkcGL5uLzOdDmZ0UrhpRidY=
+
+Name: theme/resources/dialog/information.png
+SHA1-Digest: Jdei7HtF9iCpmU2FA/ZdGxsu3fE=
+
+Name: META-INF/maven/org.eclipse.rap/org.eclipse.rap.design.example/po
+ m.properties
+SHA1-Digest: /oQjghtmxPlhCp0KE0nBmDS1ndM=
+
+Name: theme/fancy/icons/radio-unselected-hover.png
+SHA1-Digest: 81D4HElW5Dd1+Pt4tRER54/xDL4=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$12.class
+SHA1-Digest: 5+8rOuSVsaIM1kLfko80kNWIKrc=
+
+Name: theme/resources/calendar/lastMonth-hover.png
+SHA1-Digest: ARWbxTuPWFqb3/HRnwIWv/uT+sg=
+
+Name: theme/resources/calendar/nextMonth-hover.png
+SHA1-Digest: hiWpuglZkKi3/N6PDAoew4EOPks=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$3.class
+SHA1-Digest: 18X8PFDkFMwmW9u0MQWGvj3GYpk=
+
+Name: theme/resources/slider/right.png
+SHA1-Digest: S7JuH5BQSgNBIsdLBBRREYECLRs=
+
+Name: img/fancy/toolbarButtonBg.png
+SHA1-Digest: rWD0hU+bId2A3bw/4+Ei42ldxgA=
+
+Name: img/business/stack_tab_overflow_inactive_hover.png
+SHA1-Digest: iMqVjy8d8SYK5wb9VxWJ0eg0CTM=
+
+Name: theme/resources/scale/h_marker_big.gif
+SHA1-Digest: KO4fHeNpmQQHHND2zvZ0hm+2pgI=
+
+Name: theme/resources/menu/arrow.gif
+SHA1-Digest: f3UQ6c2Q9VqyfVGL/wMiRjukL+w=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ConfigAction.clas
+ s
+SHA1-Digest: MEcswpOFzlKfTlFr3PU5XRbHrmc=
+
+Name: theme/resources/column/sort-indicator-down.png
+SHA1-Digest: JGXQLqeVGi8zupmqKpH6gglo9Y8=
+
+Name: theme/resources/scrollbar/v-knob.png
+SHA1-Digest: 7C67wCR2MSZ1LxsAZVKN/9hl2ro=
+
+Name: img/business/footer_left.png
+SHA1-Digest: qkuuYkBwCfJtsQ0CD549r91MZsw=
+
+Name: theme/resources/button/radio-selected-hover.png
+SHA1-Digest: QuqOWGXa7TeJBmh/v2bGNm4I5i0=
+
+Name: img/fancy/stack_tabbar_left_inactive.png
+SHA1-Digest: qwz3DtT7On9lR3pzdG3YrrlFYSw=
+
+Name: theme/resources/window/shell-close.png
+SHA1-Digest: DYqGWaOisgqX4iGtj9E+vBPiHvA=
+
+Name: img/fancy/stack_tab_active_confarea_bg.png
+SHA1-Digest: JeiW33MTPT5VZ1OtT/4LQJRBONg=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Cool
+ barInitializer.class
+SHA1-Digest: QWzgqQObb5/4ODW8PIHv8vzg9Ng=
+
+Name: theme/fancy/icons/nextYear.png
+SHA1-Digest: hHB44HDzEOXq4u5YByWuBQ1lxf0=
+
+Name: theme/resources/ctabfolder/close_hover.gif
+SHA1-Digest: ebUOQXRhQkKT6aIvvw+VRJ7M5/4=
+
+Name: theme/resources/cursors/copy.gif
+SHA1-Digest: rs1l/rR0+l4Wlfl6dOQLevF1ibo=
+
+Name: org/eclipse/rap/internal/design/example/builder/PerspectiveSwitc
+ herBuilder$1.class
+SHA1-Digest: RlYmIHuwwAiyWNgTNm1SiQlfCNU=
+
+Name: theme/resources/slider/left-hover.png
+SHA1-Digest: wzarGifR2zCZzsh7mciMpjR3EV4=
+
+Name: theme/resources/progressbar/bar.gif
+SHA1-Digest: piYJdVvlAoN/hcOajOOefTjxDcI=
+
+Name: theme/resources/spinner/down-hover.png
+SHA1-Digest: c1Gcl8cirIGmu4lB31QeZwvhSGo=
+
+Name: theme/resources/expanditem/expanditem-expand-hover.png
+SHA1-Digest: GmtCnTzg8o0+aP3Wv5Ya0wiDix0=
+
+Name: theme/resources/tree/tree-collapsed-hover.png
+SHA1-Digest: Dq4p5/hPEBjr0PEA2ahWwVv6nno=
+
+Name: img/fancy/header_right.png
+SHA1-Digest: f/+sEKdWdYvI7otu0xJA2r4DMVM=
+
+Name: theme/fancy/icons/up.png
+SHA1-Digest: 2bVECOXQSaJu7Uv+zKz3PJm3J/g=
+
+Name: org/eclipse/rap/internal/design/example/fancy/builder/HeaderBuil
+ der.class
+SHA1-Digest: CDc6N8qxwtLNPAbycQu4vvvPlwQ=
+
+Name: theme/resources/calendar/nextYear-hover.png
+SHA1-Digest: kk9akq8CExzDEzwmEni/Gao/U6M=
+
+Name: img/fancy/stack_tab_inactive_separator_active.png
+SHA1-Digest: SqFTiNpZjl777wPpTPoPTtFd57Y=
+
+Name: theme/resources/slider/left.png
+SHA1-Digest: U/z8UPk0fUPR6uCbfCuXyytGHpc=
+
+Name: org/eclipse/rap/internal/design/example/managers/PartMenuManager
+ .class
+SHA1-Digest: 6RemTC1PPnRsI7CLGKSViOjXYT8=
+
+Name: img/fancy/conf_dialog_icon.png
+SHA1-Digest: IzWFyT86eBaqgAT+QI0lL7ecXv8=
+
+Name: theme/fancy/icons/tree-expanded.png
+SHA1-Digest: HFboMly5/9HnzX7tvetD051GTt8=
+
+Name: theme/resources/window/shell-max-hover.png
+SHA1-Digest: hw/3ilaGNSMwh5CnLfH1o94jYB8=
+
+Name: theme/fancy/icons/lastMonth.png
+SHA1-Digest: ZesqZB4FM4K0iKDMgzTs4CbMYO8=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion.class
+SHA1-Digest: YYaCckoKlxPL/q50uIUwh6fcf2I=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/FooterI
+ nitializer.class
+SHA1-Digest: QPvs2QS69sTyHO+YB1b4GgpE9Ts=
+
+Name: img/business/viewPulldown.png
+SHA1-Digest: Y4P3M1WMhoeI2roAojOfMHz30ZI=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Cool
+ barOverflowInitializer.class
+SHA1-Digest: i98C+v9Vp/EboTqgp4lNmExhfzY=
+
+Name: img/business/stack_tab_inactive_separator_active.png
+SHA1-Digest: ohXBFR82RBbh4fblF0uvDb45v2M=
+
+Name: theme/fancy/icons/check-selected-hover.png
+SHA1-Digest: Y+g/T2Y8xt5/JDc11y0wOxFt3EI=
+
+Name: img/business/viewtoolbar_bg.png
+SHA1-Digest: YRb5aHOYST5O9F8GojQcnn5/Aeg=
+
+Name: img/fancy/stack_tab_overflow_inactive_hover.png
+SHA1-Digest: cnoPucXFNPLuDnKJ8A2cJ/5eyxU=
+
+Name: theme/resources/coolitem/chevron.gif
+SHA1-Digest: qsJJp8lJ3f9tzEXnrpC9XW0UqwE=
+
+Name: theme/resources/scale/v_marker_big.gif
+SHA1-Digest: ojnzr/PqW9p7dn4STTFR/Oz8AVo=
+
+Name: img/fancy/stack_tab_overflow_inactive.png
+SHA1-Digest: h95R66WHrsU3MFkZsVc1CcWhsAs=
+
+Name: img/fancy/header_wave.png
+SHA1-Digest: 38CemDnfE/Lxu36QlG88JgTMlJ4=
+
+Name: img/fancy/stack_border_top_standalone.png
+SHA1-Digest: /PggV4H7d1wa7C7xfF8SJwzeTfM=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ConfigurationDial
+ og$2.class
+SHA1-Digest: 6qqCIWVhsOgRa3Il32bEvUMOjYo=
+
+Name: img/business/stack_tab_conf_active.png
+SHA1-Digest: hNYN1/lO62MOxij62aAUkHgTWJw=
+
+Name: org/eclipse/rap/internal/design/example/fancy/FancyPresentationF
+ actory.class
+SHA1-Digest: wcTy9iOk6djyKndni5FhGAhyaFY=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$8.class
+SHA1-Digest: nJGlBl0ZCUP1qBeOrUHRCWB5ieA=
+
+Name: img/business/conf_inactive.png
+SHA1-Digest: ephIERGDUaDv/vw1vbNkGrqXZb8=
+
+Name: RAP Business design.launch
+SHA1-Digest: Bc3dnrZo4LExJL/9bjt+f3McTqo=
+
+Name: img/fancy/header_left.png
+SHA1-Digest: yWHSXO7KWUAzPrAWA+z8jFF4F/M=
+
+Name: theme/fancy/icons/expanditem-expand-hover.png
+SHA1-Digest: qWJHRBN/kB0sT8EiwAwCKsw95KU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: QdryQvJlVywlE0MGLuwYCkmkyWk=
+
+Name: img/fancy/perspective_bg_active.png
+SHA1-Digest: R89sc00zG2R/JoxBeOUu9/GHHVI=
+
+Name: theme/resources/spinner/up-hover.png
+SHA1-Digest: zc8sQOCmX/Yy/gVLZJosum2ZTE8=
+
+Name: theme/resources/arrows/down.gif
+SHA1-Digest: N3mVIJ6FlniTsnadE6hMeKpspco=
+
+Name: img/fancy/stack_border_right.png
+SHA1-Digest: toEyJkPywUuVBY31q2ppRXj/1Ic=
+
+Name: theme/resources/scrollbar/h-knob.png
+SHA1-Digest: QzML6yvQNCZgacZ3Co6ZGKdUYRQ=
+
+Name: theme/fancy/icons/shell-min.png
+SHA1-Digest: a27T1kq+nUD269wX9SSjIiav4y0=
+
+Name: theme/resources/ccombo/down.png
+SHA1-Digest: st3rAZwjttURbuoviFamcJD4hdc=
+
+Name: org/eclipse/rap/internal/design/example/builder/FooterBuilder.cl
+ ass
+SHA1-Digest: /zRLHboFdSne1X2UuXmAJCN5E8c=
+
+Name: img/fancy/menu_arrow.png
+SHA1-Digest: 3ySyrIgukHRSYH1rikkMtE41mvM=
+
+Name: theme/fancy/icons/radio-selected-hover.png
+SHA1-Digest: JA1d70Jt8GI4vopkq+vVZq5wiCg=
+
+Name: META-INF/maven/org.eclipse.rap/org.eclipse.rap.design.example/po
+ m.xml
+SHA1-Digest: jJ+FOeHAwXjEAnnb2o2ul3G4VYs=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Pers
+ pectiveSwitcherInitializer.class
+SHA1-Digest: iV7iS7nPY6TgSf4q7070GzmuAow=
+
+Name: img/business/stack_tab_active_right_active.png
+SHA1-Digest: +eqxb+ejatbmju9zv5UszOq5n08=
+
+Name: theme/fancy/icons/down.png
+SHA1-Digest: d1jlnCzIZKl5JajH2C9DIWJNKFA=
+
+Name: img/business/stack_border_right.png
+SHA1-Digest: nbys0tlnGZHB+vAANeR4ObnEEAQ=
+
+Name: org/eclipse/rap/internal/design/example/managers/CoolBarManager$
+ 3.class
+SHA1-Digest: KkRhNmXeX0T5Ne+IjW2mCIkKuGk=
+
+Name: theme/resources/window/shell-min.png
+SHA1-Digest: Vhy0Hjt+3dGklUqTbGMA+3ZhggI=
+
+Name: theme/fancy/icons/shell-max.png
+SHA1-Digest: 7zrKlATs5SZ2ZpwFzELIVR4tdHA=
+
+Name: theme/resources/expanditem/expanditem-expand.png
+SHA1-Digest: BuEWSEmWcX7FCGwC/vt1Pq+vzXk=
+
+Name: theme/resources/spinner/down.png
+SHA1-Digest: a+GxhbstBbfmRkSjwVgl1WIVxPc=
+
+Name: theme/resources/cursors/alias.gif
+SHA1-Digest: DR7JmDNhH9Se08+NMNW+Yen1wrE=
+
+Name: theme/fancy/icons/tree-collapsed.png
+SHA1-Digest: GinioYkcZmz9e8NEz6MNPa3Vv8k=
+
+Name: img/business/toolbar_overflow_layer_bg.png
+SHA1-Digest: dXRNwbum8scc8+v7x1VVU4xO9UI=
+
+Name: theme/resources/ctabfolder/restore.gif
+SHA1-Digest: oSzTQ8MAe0R7Qoxm8hxd/iae8qI=
+
+Name: img/business/perspective_bg.png
+SHA1-Digest: snf6PHNzGQJ61+wLMukuN70x2k8=
+
+Name: theme/fancy/icons/nextMonth.png
+SHA1-Digest: OO2BgsgiqWL5CXFV9NGpAmSd/H4=
+
+Name: theme/resources/cursors/move.gif
+SHA1-Digest: QCQqu9bC6DyfBt4IaJE3NOxq3To=
+
+Name: plugin.properties
+SHA1-Digest: 8uuXUpnsasn3WPaKgwRIP4CsYH4=
+
+Name: theme/resources/colorselector/brightness-field.jpg
+SHA1-Digest: zbIEKW+IpwhmhJVraaL3++/BL8s=
+
+Name: theme/resources/window/shell-max.png
+SHA1-Digest: MKZSRPkY2LWkEEsu6JKLVBuhF+s=
+
+Name: img/business/conf_dialog_icon.png
+SHA1-Digest: mjuY4n2PxSh7La0buc52gKUMarc=
+
+Name: org/eclipse/rap/internal/design/example/managers/MenuBarManager$
+ 1.class
+SHA1-Digest: 5h0Z6FE95fBF4WG63Et7tcvvovo=
+
+Name: theme/fancy/icons/shell-close.png
+SHA1-Digest: kv0v/Qe91qzEcTVkmQ48p5qxvvc=
+
+Name: img/fancy/stack_border_top_active.png
+SHA1-Digest: /fCmJzMXCuxbthS39LlzMuJxxgw=
+
+Name: theme/resources/expanditem/expanditem-collapse.png
+SHA1-Digest: BpU5PcgD5ohUTMZ1taNfPeLEZ40=
+
+Name: theme/resources/scale/v_marker_small.gif
+SHA1-Digest: rhb+I459e+6UTB56pM1/v3xDdSU=
+
+Name: img/business/footer_right.png
+SHA1-Digest: e31e7xta9x2KIMy6OZlJhP2mn8I=
+
+Name: theme/resources/dialog/question.png
+SHA1-Digest: dIZCmVUxJG2x6kiDuq9CGjVG0JE=
+
+Name: theme/resources/datetime/drop_down_button.gif
+SHA1-Digest: INeFXU/6CzggkH7w/CZB6N4ZvzM=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$5.class
+SHA1-Digest: qPINSskR5mSusjCxwqU6xgxlhBo=
+
+Name: theme/resources/column/sort-indicator-up.png
+SHA1-Digest: TLlhtNrOFrk+yKN9Ka1n2HPJ4N4=
+
+Name: org/eclipse/rap/internal/design/example/Messages.class
+SHA1-Digest: NF8Ca1qHXjGZjMFbJ2TYE1nUVCo=
+
+Name: plugin.xml
+SHA1-Digest: cTtCDAthM0yO+eeCKaDL/ke6fEY=
+
+Name: theme/resources/calendar/lastYear-hover.png
+SHA1-Digest: 5PGYqKiu1VDBY69oUSFFOVgTDx4=
+
+Name: theme/resources/button/check-unselected.png
+SHA1-Digest: XPOhW1SNFDb31hCY1iTrsFJHvW8=
+
+Name: theme/resources/datetime/down_button.gif
+SHA1-Digest: OWJMZAOB8ctgu6YK5i8NhrvCPWc=
+
+Name: img/fancy/perspective_left_active.png
+SHA1-Digest: E+f1m/i1nQbrnJ4TpOywwrU/3R4=
+
+Name: img/fancy/stack_border_top.png
+SHA1-Digest: 4fnKL2BtRGuMt5tKGOs3VkSADYQ=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/Coolbar
+ OverflowInitializer.class
+SHA1-Digest: x2OMxqzVSHjnmguZyG++3akYIIU=
+
+Name: img/fancy/toolbar_overflow_hover_active.png
+SHA1-Digest: 5683Y1Knm2s6hDQXVMQhBY3cl7g=
+
+Name: img/fancy/toolbar_arrow.png
+SHA1-Digest: cQvvzQZ2pk2nSRXO6JpfosdGxQ4=
+
+Name: org/eclipse/rap/internal/design/example/builder/StackPresentatio
+ nBuider.class
+SHA1-Digest: 8h2EUQV6h7Prbu06LUEH7nwdKR4=
+
+Name: theme/resources/button/check-grayed.png
+SHA1-Digest: 03knZl4JC+q2L1jBGD5Zzt9qGCA=
+
+Name: org/eclipse/rap/internal/design/example/builder/PerspectiveSwitc
+ herBuilder$3.class
+SHA1-Digest: wkq8MXm8+naD9mCasQf0ewRx2v0=
+
+Name: org/eclipse/rap/internal/design/example/business/BusinessPresent
+ ationFactory.class
+SHA1-Digest: 3oRLt/2eBvKQVn4qvb4i7QWEcQ8=
+
+Name: theme/fancy/icons/tree-expanded-hover.png
+SHA1-Digest: jHpBftoc6tmno0fNcvVqG6Nluco=
+
+Name: theme/fancy/icons/check-grayed-hover.png
+SHA1-Digest: 3+xyVA/hGjE45QZVXwWbyKqeW/0=
+
+Name: img/business/header_right_bg.png
+SHA1-Digest: az5rZVQ9zd2Xm7yAAkFSDcpD/z4=
+
+Name: img/business/stack_tab_inactive_right_active.png
+SHA1-Digest: 18526vn/7GEZn7V6Im4XLyaNagk=
+
+Name: img/business/header_wave_layer.png
+SHA1-Digest: pAhBzHEBMDOam4CjxN2oJ7QPgZw=
+
+Name: img/business/perspective_bg_active.png
+SHA1-Digest: sjN72I5b4Rc8JV4K3POHhuRh2Uw=
+
+Name: img/fancy/stack_tab_inactive_bg_active.png
+SHA1-Digest: p+WvT+PfTfSp/OLb5Snm2cmjhho=
+
+Name: img/business/stack_tab_overflow_active.png
+SHA1-Digest: QVSqTNsxfhrJilLIxapa86eIBnA=
+
+Name: theme/resources/window/shell-restore.png
+SHA1-Digest: pcw2wPO0qusZlpbzbkio652n3vA=
+
+Name: theme/resources/button/radio-unselected-hover.png
+SHA1-Digest: cXk/OvR50LJM2JsClm6xx7GmS70=
+
+Name: theme/business/business.css
+SHA1-Digest: +vosrQfyCMXWfqxTcDXhhJ9L16Y=
+
+Name: theme/fancy/icons/table-column-hover.png
+SHA1-Digest: YNHSfYoG8/7aScWlUnTER5Rd9BA=
+
+Name: img/fancy/stack_inactive_corner_active.png
+SHA1-Digest: mdkGWWG7p5rWmK1RJMgP9kklf8o=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/MenuBar
+ Initializer.class
+SHA1-Digest: 4sip7dYQPq99DueGOM2r2dmWqjs=
+
+Name: theme/fancy/icons/shell-close-hover.png
+SHA1-Digest: vmdJLihFDtZwcF+9SRb/fJq/FDU=
+
+Name: theme/fancy/icons/right-hover.png
+SHA1-Digest: aTl4q8A1dYr80sII5eFLW8m9rT4=
+
+Name: theme/resources/scale/v_line.gif
+SHA1-Digest: Tc4uQcS4mdfiouTSwsg5WINiU1Y=
+
+Name: img/fancy/stack_tab_inactive_confarea_bg.png
+SHA1-Digest: sb4lpwNRArfgD43ELMBpT1KTUAI=
+
+Name: theme/fancy/icons/lastYear.png
+SHA1-Digest: 7LhNPnUsa2vvbX3jzoRP7QFvaG0=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$11.class
+SHA1-Digest: zQ139qPtC+Wj4klDZgIzlqpMu7I=
+
+Name: img/fancy/footer_bg.png
+SHA1-Digest: TMZWSJX3MDe+qjqx2eMPL2OA0iw=
+
+Name: img/business/toolbar_overflow_layer_right.png
+SHA1-Digest: NQwpGBBXQ4RLwMepTYix1t5+6rs=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Head
+ erInitializer.class
+SHA1-Digest: +ZTZF9V8nEmARsu6dUEYdmIhSPA=
+
+Name: theme/resources/window/shell-close-hover.png
+SHA1-Digest: tdWXBq8M9L6NgKO4BiO6z2nhMBQ=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$2.class
+SHA1-Digest: GOOdXvcKso0lsyAtJOGGTCqco6s=
+
+Name: theme/fancy/icons/browser_bg.png
+SHA1-Digest: KOEjSWlfDdfLbgB4v7b0TdTbNZs=
+
+Name: theme/resources/menu/checkbox.gif
+SHA1-Digest: l3mBes6m35WpR8tQ6bTAVC8WHaY=
+
+Name: theme/resources/ctabfolder/ctabfolder-dropdown.png
+SHA1-Digest: W/+cEwVAszWiOpHcDeVC9jUB6Ho=
+
+Name: img/fancy/stack_inactive_corner.png
+SHA1-Digest: C837KPdCOf2eYWcujDXbefOs0mA=
+
+Name: img/business/toolbar_overflow_hover.png
+SHA1-Digest: hSa1BiLZ+63cFjwY9oxdXsJw0CA=
+
+Name: img/fancy/close.png
+SHA1-Digest: ZBKWssV8W1wbNZ51yF4SU0xFaYw=
+
+Name: org/eclipse/rap/internal/design/example/business/BusinessWindowC
+ omposer.class
+SHA1-Digest: YdJil+8MyFTkFDuHkqmDyz81RRQ=
+
+Name: theme/resources/scale/h_marker_small.gif
+SHA1-Digest: uyxSKAA6GOxeM3eaevD4z8oiowc=
+
+Name: img/fancy/header_wave_layer.png
+SHA1-Digest: KFik/CBxj/GD0BKw0ztyCiawp50=
+
+Name: theme/fancy/icons/up-hover.png
+SHA1-Digest: IzfB8BeojuCGAcHLoYJmV+NK7l8=
+
+Name: theme/resources/cursors/nodrop.gif
+SHA1-Digest: VZAYv2wT3SFOJN2nX4OsVzk+jzI=
+
+Name: img/fancy/stack_border_bottom_active.png
+SHA1-Digest: mwojfVOzulN3xd7BbIMtKP7TJRQ=
+
+Name: theme/resources/window/shell-restore-hover.png
+SHA1-Digest: r8/65Pv69SIcOR157fcPzSIZlQc=
+
+Name: img/fancy/stack_border_right_active.png
+SHA1-Digest: +62ppRPJu+OSgk33U2lAvwp50gI=
+
+Name: img/fancy/stack_tab_conf_inactive.png
+SHA1-Digest: tmuTK/2RRCW7Tmd4w9nR0oexHDE=
+
+Name: org/eclipse/rap/internal/design/example/managers/CoolBarManager.
+ class
+SHA1-Digest: zoFk7eDxd+CpaZe8Jovwgab2Qms=
+
+Name: theme/fancy/icons/check-unselected.png
+SHA1-Digest: EjqfWiUJLuIduqCBKG189Jsp5Gc=
+
+Name: img/business/stack_border_top.png
+SHA1-Digest: ty5u/2XEHBxFpruWawLE4uK8FlI=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Logo
+ Initializer.class
+SHA1-Digest: M5gkhrLe7iSSjqkhgYtXMzQ8W48=
+
+Name: img/business/stack_tab_active_confarea_bg.png
+SHA1-Digest: F/5Hx2DGen0Q3iNJ700tsCXdA6Q=
+
+Name: img/fancy/stack_tabbar_right_active.png
+SHA1-Digest: CACInlXMpwsbFBpN7OGWZubbY2g=
+
+Name: theme/resources/menu/menu-blank.gif
+SHA1-Digest: Ihvf6fywXgVlciY1M/rVyVBxkeI=
+
+Name: theme/resources/colorselector/brightness-handle.gif
+SHA1-Digest: NB9Ed7iCBLA8DKyeozFF8pd9gWA=
+
+Name: theme/resources/dialog/warning.png
+SHA1-Digest: UIXdZhVLTlKB3wx6U/aYDvmLYmA=
+
+Name: theme/fancy/icons/check-grayed.png
+SHA1-Digest: DpuzwF24GhIfqk3QTY1XrfefKt8=
+
+Name: theme/resources/menu/radiobutton.gif
+SHA1-Digest: qM/La+YFUqZK/wT1tRpYcpcL2ko=
+
+Name: img/fancy/stack_border_top_active_standalone.png
+SHA1-Digest: 9JZN7uS9EVZAjdwW12zg28M1fAk=
+
+Name: org/eclipse/rap/internal/design/example/fancy/FancyWindowCompose
+ r$1.class
+SHA1-Digest: wkINRbr86Rh00jqzjSvNqdl/f88=
+
+Name: org/eclipse/rap/internal/design/example/builder/CoolbarLayerBuil
+ der.class
+SHA1-Digest: Nr3nszEJ9Gl1i2A/RI04U7K7W9Q=
+
+Name: img/fancy/stack_tab_inactive_close_active_hover.png
+SHA1-Digest: G8wacMyJ3MiajoS9msioEUGiriA=
+
+Name: org/eclipse/rap/internal/design/example/managers/MenuBarManager.
+ class
+SHA1-Digest: vEnJGYLayVN0/n1TtuHQwvrOB78=
+
+Name: img/business/header_right.png
+SHA1-Digest: k+hQfHIPx00LiOV55dB/xCxRBjw=
+
+Name: img/fancy/toolbar_overflow_active.png
+SHA1-Digest: VENdthokgw9fiJlezTBlhkgCTGQ=
+
+Name: img/fancy/conf_inactive.png
+SHA1-Digest: 8ncyJlQ6Dl+eFlyvG7qASIpDUG8=
+
+Name: img/fancy/stack_border_left_active.png
+SHA1-Digest: xYgiO4L0zyLFI/ZbgbQpkJbuTj0=
+
+Name: img/fancy/stack_border_bottom.png
+SHA1-Digest: VmEnUS/8giLwvnF24KDaahBM83Q=
+
+Name: theme/fancy/icons/left-hover.png
+SHA1-Digest: ecYhqN5B153Vmms93PQsxxFGY4g=
+
+Name: theme/fancy/fancy.css
+SHA1-Digest: f6rzo5twTLyoxowVIhBzi4Rc3bc=
+
+Name: img/fancy/footer_left.png
+SHA1-Digest: ZzrQOBiVfvgUSY7dh+jVi1SM+QQ=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ConfigurationDial
+ og$1.class
+SHA1-Digest: a+lcxq4D/cb6yyw7YGjwelx3uto=
+
+Name: theme/resources/scale/h_line.gif
+SHA1-Digest: Mjnhc8AcIcmNmiCtS6q9b0CrZrw=
+
+Name: img/fancy/header_left_bg.png
+SHA1-Digest: eZuCFEWaIMXEim+8k8/dV6C7T28=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$7.class
+SHA1-Digest: 4Lwv/ytMBTi5/9eS9Y5VaXecCRo=
+
+Name: theme/fancy/icons/nextYear-hover.png
+SHA1-Digest: wDA8ubu3NOp64ffbhLdKrd3YTXI=
+
+Name: img/business/stack_tab_active_close_active.png
+SHA1-Digest: /j7YHdAr6+0mLBuHie62KsE4cJ4=
+
+Name: theme/fancy/icons/shell-min-hover.png
+SHA1-Digest: WqDLYuPeZvdh0fPOn0lRnX2RqAU=
+
+Name: img/business/stack_border_bottom.png
+SHA1-Digest: 9RUIBs7bLDlfREBUGW1rsU08TyI=
+
+Name: img/fancy/stack_tabbar_right_inactive.png
+SHA1-Digest: HttKBYBGOSQEM8CxtDbdwSiBQ4o=
+
+Name: org/eclipse/rap/internal/design/example/builder/PerspectiveSwitc
+ herBuilder.class
+SHA1-Digest: J0HAG1IRgvKZbaooRUHMdhYgAtg=
+
+Name: theme/resources/ctabfolder/maximize.gif
+SHA1-Digest: 5wzvaTJQmQn4AKdpaYW9dG0EXX4=
+
+Name: img/fancy/header_right_bg.png
+SHA1-Digest: yDpmumdgj90wKefZ7lbnCJa5oTs=
+
+Name: theme/fancy/icons/check-unselected-hover.png
+SHA1-Digest: GcN9fFNRGg3tYpu5NVlOXnJW6SM=
+
+Name: theme/resources/calendar/lastMonth.png
+SHA1-Digest: xOWDoUz6n5aErqXSL4sBBtCFuDI=
+
+Name: img/fancy/stack_tab_inactive_right_active.png
+SHA1-Digest: 96Om+1mt6qfVjttRnmA9dNm934k=
+
+Name: theme/fancy/icons/sort-indicator-down.png
+SHA1-Digest: Wbcewo4+S7ZzgJ8Vt6UJ5x9RGY0=
+
+Name: img/business/stack_inactive_corner.png
+SHA1-Digest: z2cmAU94dOPfwjFM/TcyYCYKiz8=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$DirtyListener.class
+SHA1-Digest: 2atugHXgJGfSTcl363jIYnWsfrI=
+
+Name: img/fancy/stack_tab_active_right_active.png
+SHA1-Digest: F+xEqwIDgKtoghKZXf2vB99KIhM=
+
+Name: about.html
+SHA1-Digest: p+J1lshfujMqAzV5/VljRFB28RA=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/StackIn
+ itializer.class
+SHA1-Digest: QaJqA5yiALMtw2m92/S0/iEOR5A=
+
+Name: theme/resources/scrollbar/right-hover.png
+SHA1-Digest: p76Y0SYxiSkBM2bnGniyrfaWhUY=
+
+Name: img/business/toolbar_overflow_arrow.png
+SHA1-Digest: 9YCjKfaGPL2idgRvcAB2pmfiLOA=
+
+Name: theme/resources/toolbar/dotted_white.gif
+SHA1-Digest: A7owWgeHcg+ZiPMe3hp9uvV6Z+c=
+
+Name: theme/resources/ctabfolder/close.gif
+SHA1-Digest: 5SV6MnoAV2N05iIPHoi/kJBsNgk=
+
+Name: img/business/close.png
+SHA1-Digest: SqnHOrawvpf7A6rswC8L2neAqz8=
+
+Name: org/eclipse/rap/internal/design/example/business/BusinessWindowC
+ omposer$1.class
+SHA1-Digest: dU2UDwFEU3u3AdSwA37v/BhNmZU=
+
+Name: img/business/perspective_left_active.png
+SHA1-Digest: MP1gpkIBiiwvH4yfdUNTte9tQKo=
+
+Name: theme/fancy/icons/lastMonth-hover.png
+SHA1-Digest: W1HTri2/p8vTQ/r79F4p3QwPe/k=
+
+Name: theme/fancy/icons/nextMonth-hover.png
+SHA1-Digest: 8tm+NtVwrw/Tow1JZRYkfQ8cT3c=
+
+Name: img/business/stack_tab_overflow_active_hover.png
+SHA1-Digest: +WHbgC88O4X7TkPP9ktGhAR8feM=
+
+Name: img/fancy/toolbar_overflow_layer_left.png
+SHA1-Digest: ghcEnhZTnEOuIoJHzv/W6+Idbxc=
+
+Name: img/business/stack_border_left.png
+SHA1-Digest: fTO4K1RqT/GfwcJNylcRS3hFf94=
+
+Name: org/eclipse/rap/internal/design/example/managers/CoolBarManager$
+ 2.class
+SHA1-Digest: j/KVTOdCHFBMqE9PbxNyeFdL0dM=
+
+Name: org/eclipse/rap/internal/design/example/managers/ToolBarManager.
+ class
+SHA1-Digest: XbOF2NZob/R9bODkFX5nddz65vs=
+
+Name: img/fancy/stack_tabbar_left_active.png
+SHA1-Digest: NwqGrYfUZwliDlFdtMB61h/322s=
+
+Name: img/business/viewMenu.png
+SHA1-Digest: /yoJR9BK4VFtpKY842s5bHz0YV4=
+
+Name: theme/resources/tree/tree-collapsed.png
+SHA1-Digest: JMWhGbYcNXfNS02tHy1UtEmrMn8=
+
+Name: theme/fancy/icons/expanditem-collapse.png
+SHA1-Digest: VfKJ/VD4mzsX1iQA3L/a6WsDKfE=
+
+Name: theme/resources/tooltip/error.png
+SHA1-Digest: k/VuAivL87GQ5L3vEvgyT887EbA=
+
+Name: theme/resources/slider/right-hover.png
+SHA1-Digest: wZA9gwzPpftSA3JZr4JARQL/tdA=
+
+Name: img/business/logo.png
+SHA1-Digest: nxXpYjrQN50KCqueA2pAnn4OAls=
+
+Name: theme/fancy/icons/radio-selected.png
+SHA1-Digest: O9NF+4bQjhJ25cfZWqZ9TOKOH9A=
+
+Name: theme/resources/ctabfolder/ctabfolder-dropdown-hover.png
+SHA1-Digest: ZbafL7rY+5J3+K4I0tOF98cpyRo=
+
+Name: img/business/perspective_right_active.png
+SHA1-Digest: x88pT5Ph9B6BvjxwOaD/PGYX9z0=
+
+Name: img/fancy/stack_tab_active_close_active_hover.png
+SHA1-Digest: /3t88AsdC8fLk1PcHOnOTHfBRBg=
+
+Name: theme/resources/calendar/nextYear.png
+SHA1-Digest: OcqXOfaN3YxLxntTHXPLYFturH8=
+
+Name: theme/resources/button/radio-unselected.png
+SHA1-Digest: 4zVjt8m/b+v2/KUisGibFzKxJ+s=
+
+Name: img/fancy/toolbar_overflow_hover.png
+SHA1-Digest: MgDEm303M07MY97lN/MfBlN4CNY=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$13.class
+SHA1-Digest: Vmox3YWPqX62yLSHR6YaGxshb1A=
+
+Name: theme/resources/display/browser_bg.png
+SHA1-Digest: lzQlDbJ3gTTqckl54aO5BZIefzc=
+
+Name: theme/resources/combo/down_button.gif
+SHA1-Digest: nhpfQdmn11uU+h27j9NqZonugZk=
+
+Name: img/business/stack_tab_inactive_close_active_hover.png
+SHA1-Digest: YBD/pQdY2QUNeYDx7/oTNOMt5Nk=
+
+Name: org/eclipse/rap/internal/design/example/builder/DummyBuilder.cla
+ ss
+SHA1-Digest: q2la+694/TyMFJsxtwEoRhLLz6I=
+
+Name: theme/fancy/icons/right.png
+SHA1-Digest: eL7NSWOfKOOAm/iAFDXJTIhZASA=
+
+Name: img/business/stack_tab_inactive_close_active.png
+SHA1-Digest: XwYdQICSHS+iUbNKr8fxJICUslU=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$4.class
+SHA1-Digest: Nub21tN8sqYlc8kercVcGDf5Pzw=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/Perspec
+ tiveSwitcherInitializer.class
+SHA1-Digest: Wub7OFYqyY2qY5sNBOO5QR/ky5c=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Conf
+ igDialogInitializer.class
+SHA1-Digest: L7Tmh6ltQbA874poAlu4tZFsb/U=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/ConfigD
+ ialogInitializer.class
+SHA1-Digest: dITq3rSpz25aRIJkRUQxUkWMLHk=
+
+Name: img/business/stack_tab_active_close_active_hover.png
+SHA1-Digest: MJF1m8zG5CZ+HS9wqYIs8mEA/vs=
+
+Name: theme/fancy/icons/check-selected.png
+SHA1-Digest: YRqt7dqlH6YcYYr21kTYgAluwkA=
+
+Name: img/business/stack_tab_inactive_confarea_bg.png
+SHA1-Digest: u2Do2rHGZanMw8T3G6j4wgT7EVE=
+
+Name: theme/resources/button/check-grayed-hover.png
+SHA1-Digest: xlDpZXjbqt3zPq6qenm3xxsLmdo=
+
+Name: img/business/stack_tab_overflow_inactive.png
+SHA1-Digest: YP8X8M5N3f9ndQVWYXEsTLBQqzs=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Menu
+ BarInitializer.class
+SHA1-Digest: Wuc+4WsTooTpoeUbI23NBa1W1Tk=
+
+Name: img/business/header_wave.png
+SHA1-Digest: wD+0jvBoR6yBSAnTRiIhHAOV/kc=
+
+Name: theme/fancy/icons/left.png
+SHA1-Digest: bPyPJRuZN0CEPtk8MVEU85SZbnQ=
+
+Name: theme/resources/calendar/nextMonth.png
+SHA1-Digest: iZUCtfHb23afzRfeXpWJPe+GnZU=
+
+Name: theme/resources/tooltip/information.png
+SHA1-Digest: 2OnQJwgoz4d1E1RUjL/jX+3s6pk=
+
+Name: img/fancy/stack_border_left.png
+SHA1-Digest: Tlzvmv6sGgap6E+dSQuKbMx27ao=
+
+Name: org/eclipse/rap/internal/design/example/builder/PerspectiveSwitc
+ herBuilder$2.class
+SHA1-Digest: 1E29aiPST+PsM541IXH8fRRZ2rQ=
+
+Name: img/business/header_left.png
+SHA1-Digest: F6CEWHp08zWhSC415Yf1pE0375M=
+
+Name: org/eclipse/rap/internal/design/example/managers/ContribItem.cla
+ ss
+SHA1-Digest: RwqTGcFzWcKREIQgsZO8nl8sLio=
+
+Name: theme/fancy/icons/tree-collapsed-hover.png
+SHA1-Digest: NaeEc803SbhcrovFM6jLiRdj60U=
+
+Name: theme/fancy/icons/expanditem-expand.png
+SHA1-Digest: W1y5rnC+BYNVEe+5bhMY83hpXbg=
+
+Name: theme/resources/progressbar/barbg.gif
+SHA1-Digest: ian4PHdZg9stl8fk9UqF/MIrVZI=
+
+Name: img/fancy/logo.png
+SHA1-Digest: x7H6++Np/baXqPHSWPIGg15NcjY=
+
+Name: img/fancy/viewPulldown.png
+SHA1-Digest: A7C8K4a8G4juLZbIplVyDtfL5yY=
+
+Name: theme/resources/spinner/up.png
+SHA1-Digest: cMtJuhqroCLReoX2BRvPK5JGuIs=
+
+Name: img/business/stack_tab_conf_inactive.png
+SHA1-Digest: zX0oi1aLBYnUzpGRIkpVOvcZcRs=
+
+Name: img/fancy/favicon.png
+SHA1-Digest: 16GFSncWRJZThH99WS4P6aGfD7g=
+
+Name: theme/fancy/icons/lastYear-hover.png
+SHA1-Digest: SxUxXrLt/PEgFkbn6cNcavpzsiA=
+
+Name: theme/resources/colorselector/huesaturation-handle.gif
+SHA1-Digest: v/+3aLFCH8Yf/MZyFbQ8cQGNm6w=
+
+Name: theme/resources/tree/tree-expanded.png
+SHA1-Digest: aso1urfv368OWtHhgMnwoMDSyHY=
+
+Name: org/eclipse/rap/internal/design/example/managers/ViewToolBarMana
+ ger.class
+SHA1-Digest: W3vHny8xdCiQkZwF7alkpoMw4vk=
+
+Name: img/business/menu_arrow.png
+SHA1-Digest: Dwvlq3GR1fbtgQI6Jz/3CSP+M/c=
+
+Name: org/eclipse/rap/internal/design/example/business/layoutsets/Foot
+ erInitializer.class
+SHA1-Digest: WBke2rWA7YWYPAKG5jzA4v0yNPo=
+
+Name: img/fancy/stack_tab_bg_active.png
+SHA1-Digest: +1mb3WmyJnQj5z28Pc6ynqLtIFU=
+
+Name: img/business/stack_tab_inactive_bg_active.png
+SHA1-Digest: IVf4wi/auTaYAzsI4MeT7Af1yaA=
+
+Name: org/eclipse/rap/internal/design/example/managers/ItemData.class
+SHA1-Digest: FKZnXWXPLk4BNnOJ1GJvWlehcwc=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/Coolbar
+ Initializer.class
+SHA1-Digest: B3IRSuhL3801QuVeYxsCe5JouZM=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$10.class
+SHA1-Digest: oVDJMci02rjggWHI44CWzI0rcuw=
+
+Name: org/eclipse/rap/internal/design/example/messages.properties
+SHA1-Digest: 7Uja11DhyfrOF+2+ku2UgWqh/GQ=
+
+Name: img/business/stack_inactive_corner_active.png
+SHA1-Digest: jP5Csmye3pjQid+Gnlq7JNxT/xE=
+
+Name: theme/fancy/icons/table-column.png
+SHA1-Digest: zMr6bhufTl9T8M3kL/dP1gRedyw=
+
+Name: img/fancy/toolbar_overflow.png
+SHA1-Digest: X31S0yGUh5ibP4h6QKJeSLjqrxM=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$1.class
+SHA1-Digest: NMIP0TuV4w/zLYwZzHsuLav+TEA=
+
+Name: org/eclipse/rap/internal/design/example/fancy/layoutsets/HeaderI
+ nitializer.class
+SHA1-Digest: TaayS6AxYpEnUd6gyDngx/93Ri8=
+
+Name: img/business/toolbar_overflow_active.png
+SHA1-Digest: 8AQ0atdtMKD8UIhvEesFkV30Lfk=
+
+Name: img/business/stack_tab_bg_active.png
+SHA1-Digest: 6nxAygBh9lncyPU26bROPHhsD4Q=
+
+Name: theme/resources/cursors/up_arrow.cur
+SHA1-Digest: UZ8F+I6h7fJvJ2X3+M747CGJV2M=
+
+Name: img/fancy/toolbar_overflow_arrow.png
+SHA1-Digest: Xx0eY2VBLROlhhp1cd3G8/CDW4o=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewStackPresenta
+ tion$9.class
+SHA1-Digest: rS4K2xACzsRonR2ac7L+8ZhXgTU=
+
+Name: theme/resources/ccombo/down-hover.png
+SHA1-Digest: 89RhEIObzrn5KPdf4egM7HzR8u8=
+
+Name: img/business/footer_bg.png
+SHA1-Digest: rBVVk3d0qRA4vOxhTFKALva/+i4=
+
+Name: theme/fancy/icons/radio-unselected.png
+SHA1-Digest: +ux+Ae8sszrvAPij2fcYDbaBtqk=
+
+Name: theme/fancy/icons/sort-indicator-up.png
+SHA1-Digest: AyHg2OVKBojV9d0HoYj/fI82nWc=
+
+Name: img/fancy/stack_tab_overflow_active_hover.png
+SHA1-Digest: x9t+8mAGbEsS5bfImqrLCKmt1wE=
+
+Name: img/business/header_left_bg.png
+SHA1-Digest: BYjJiBHvP4D5nozWB0V2Lo3XjFA=
+
+Name: img/business/toolbarButtonBg.png
+SHA1-Digest: byBlewsosveRuz9O6DMkERqDiR4=
+
+Name: theme/resources/scrollbar/left-hover.png
+SHA1-Digest: QIQmuJfQO7N8NFQ8Zjo3wTop9lU=
+
+Name: theme/resources/dialog/error.png
+SHA1-Digest: 3U0kN17pJRVZbHM9fEhNNNosOGc=
+
+Name: theme/fancy/icons/shell-max-hover.png
+SHA1-Digest: F9aKHBEedx8C6Phm5yMQqdTgOVk=
+
+Name: theme/resources/window/shell-min-hover.png
+SHA1-Digest: j2XsaEiKclx7RpQix0LYH/Sm4+4=
+
+Name: img/fancy/toolbar_overflow_layer_bg.png
+SHA1-Digest: MxzOjebj7vXhnI0ItIzgVtIyCwU=
+
+Name: org/eclipse/rap/internal/design/example/fancy/FancyWindowCompose
+ r.class
+SHA1-Digest: qBE7DBTEHCcPZJUDp+cmnD2QgSg=
+
+Name: img/fancy/viewtoolbar_bg.png
+SHA1-Digest: y2OUjNXlMDk6jY/JylaQWCUJtHg=
+
+Name: org/eclipse/rap/internal/design/example/stacks/ViewToolBarRegist
+ ry.class
+SHA1-Digest: KG7Wyk05Pn5Ma1fg4sQZk/t+Xus=
+
+Name: theme/resources/scrollbar/right.png
+SHA1-Digest: 9hPmjEANcvg7RvD8J3RN/rBniiM=
+

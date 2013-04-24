@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test
+Bundle-SymbolicName: medweb.bs.test
+Fragment-Host: medweb.bs
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: medweb.businessService,
+ medweb.persitence,
+ medweb.psconf.daos,
+ org.hamcrest;version="1.1.0",
+ org.junit;version="4.8.1",
+ org.mockito;version="1.9.0",
+ org.mockito.stubbing;version="1.9.0",
+ org.objenesis;version="1.2.0"

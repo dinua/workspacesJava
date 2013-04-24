@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:osgi="http://www.springframework.org/schema/osgi"
+	xmlns:osgix="http://www.springframework.org/schema/osgi-compendium"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+		http://www.springframework.org/schema/osgi http://www.springframework.org/schema/osgi/spring-osgi.xsd
+		http://www.springframework.org/schema/osgi-compendium http://www.springframework.org/schema/osgi-compendium/spring-osgi-compendium.xsd">
+
+<osgi:reference id="bService" interface="medweb.businessService.BusinessService"></osgi:reference>
+
+<bean id="patientModel" class="com.medweb.ui.pacient.PacientModel" scope="prototype">
+ <constructor-arg ref="bService"/>
+ <property name="medicModel" ref="medicModel"></property>
+</bean>
+
+<bean id="utilizatorModel" class="com.medweb.ui.administrare.UtilizatorModel" scope="prototype">
+ <constructor-arg ref="bService"/>
+</bean>
+
+<bean id="retetaModel" class="com.medweb.ui.retete.RetetaModel" scope="prototype">
+ <constructor-arg ref="bService"/>
+ <property name="medicModel" ref="medicModel"></property>
+ <property name="patientModel" ref="patientModel"></property>
+</bean>
+
+<bean id="medicamentModel" class="com.medweb.ui.medicamente.MedicamneteModel" scope="prototype">
+ <constructor-arg ref="bService"/>
+</bean>
+
+<bean id="com.medweb.ui.menu.navigationView" class="com.medweb.ui.menu.NavigationView" scope="prototype">
+ <property name="medicModel" ref="medicModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.application.loginView" class="com.medweb.ui.application.LoginView" scope="prototype">
+ <property name="businessService" ref="bService"></property>
+ <property name="medicModel" ref="medicModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.pacient.pacinetView" class="com.medweb.ui.pacient.PacinetView" scope="prototype">
+ <property name="patientModel" ref="patientModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.pacient.pacinetInactivView" class="com.medweb.ui.pacient.PacinetInactivView" scope="prototype">
+ <property name="patientModel" ref="patientModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.pacient.pacientInfoView" class="com.medweb.ui.pacient.PacientInfoView" scope="prototype">
+ <property name="patientModel" ref="patientModel"></property>
+ <property name="retetaModel" ref="retetaModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.pacient.pacientNewView" class="com.medweb.ui.pacient.PacientNewView" scope="prototype">
+ <property name="patientModel" ref="patientModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.pacient.visitHistoryView" class="com.medweb.ui.pacient.VisitHistoryView" scope="prototype">
+ <property name="patientModel" ref="patientModel"></property>
+ <property name="retetaModel" ref="retetaModel"></property>
+</bean>
+
+<bean id="medicModel" class="com.medweb.ui.medic.MedicModel" scope="prototype">
+ <constructor-arg ref="bService"/>
+</bean>
+
+<bean id="com.medweb.ui.medic.medicOrarView" class="com.medweb.ui.medic.MedicOrarView" scope="prototype">
+<property name="medicModel" ref="medicModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.medic.medicInfoView" class="com.medweb.ui.medic.MedicInfoView" scope="prototype">
+<property name="medicModel" ref="medicModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.medic.medicCabinetView" class="com.medweb.ui.medic.MedicCabinetView" scope="prototype">
+<property name="medicModel" ref="medicModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.medic.casaAsigurariView" class="com.medweb.ui.medic.CasaAsigurariView" scope="prototype">
+<property name="medicModel" ref="medicModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.medicamente.sublistaAView" class="com.medweb.ui.medicamente.SublistaAView" scope="prototype">
+<property name="medicamentModel" ref="medicamentModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.medicamente.sublistaBView" class="com.medweb.ui.medicamente.SublistaBView" scope="prototype">
+<property name="medicamentModel" ref="medicamentModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.medicamente.sublistaC1View" class="com.medweb.ui.medicamente.SublistaC1View" scope="prototype">
+<property name="medicamentModel" ref="medicamentModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.medicamente.sublistaC2View" class="com.medweb.ui.medicamente.SublistaC2View" scope="prototype">
+<property name="medicamentModel" ref="medicamentModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.medicamente.sublistaC3View" class="com.medweb.ui.medicamente.SublistaC3View" scope="prototype">
+<property name="medicamentModel" ref="medicamentModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.administrare.utilizatoriActiviView" class="com.medweb.ui.administrare.UtilizatoriActiviView" scope="prototype">
+ <property name="utilizatorModel" ref="utilizatorModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.administrare.utilizatorInfoView" class="com.medweb.ui.administrare.UtilizatorInfoView" scope="prototype">
+ <property name="utilizatorModel" ref="utilizatorModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.administrare.utilizatoriInactiviView" class="com.medweb.ui.administrare.UtilizatoriInactiviView" scope="prototype">
+ <property name="utilizatorModel" ref="utilizatorModel"></property>
+</bean>
+
+<bean id="com.medweb.ui.administrare.utilizatorNouView" class="com.medweb.ui.administrare.UtilizatorNouView" scope="prototype">
+ <property name="utilizatorModel" ref="utilizatorModel"></property>
+</bean>
+
+</beans>

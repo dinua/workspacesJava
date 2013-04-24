@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Bs
+Bundle-SymbolicName: medweb.bs
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: DinuAdrian
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: medweb.persitence,
+ medweb.psconf.daos,
+ org.springframework.aop;version="2.5.6.SEC01",
+ org.springframework.beans;version="2.5.6.SEC01",
+ org.springframework.beans.factory;version="2.5.6.SEC01",
+ org.springframework.test.context.transaction;version="2.5.6.SEC01"
+Export-Package: medweb.businessService,
+ medweb.businessService.exceptions
