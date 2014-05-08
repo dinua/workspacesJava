@@ -1,4 +1,4 @@
-package com.osgi.service;
+package com.osgi.service1;
 
 public interface OsgiService {
 

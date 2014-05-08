@@ -1,6 +1,6 @@
-package com.osgi.service.impl;
+package com.osgi.service1.impl;
 
-import com.osgi.service.OsgiService;
+import com.osgi.service1.OsgiService;
 
 public class OsgiServiceImpl implements OsgiService {
 

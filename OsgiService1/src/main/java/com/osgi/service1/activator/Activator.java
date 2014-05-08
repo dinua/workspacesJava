@@ -1,10 +1,10 @@
-package com.osgi.activator;
+package com.osgi.service1.activator;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 
-import com.osgi.service.OsgiService;
-import com.osgi.service.impl.OsgiServiceImpl;
+import com.osgi.service1.OsgiService;
+import com.osgi.service1.impl.OsgiServiceImpl;
 
 public class Activator implements BundleActivator {
 
