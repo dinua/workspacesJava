@@ -3,6 +3,9 @@ package com.osgi.activator;
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 
+import com.osgi.service.OsgiService;
+import com.osgi.service.impl.OsgiServiceImpl;
+
 public class Activator implements BundleActivator {
 
 	private static BundleContext context;
@@ -17,6 +20,7 @@ public class Activator implements BundleActivator {
 	 */
 	public void start(BundleContext bundleContext) throws Exception {
 		Activator.context = bundleContext;
+		bundleContext.registerService(OsgiService.class.getName(),new OsgiServiceImpl(),null);
 	}
 
 	/*
