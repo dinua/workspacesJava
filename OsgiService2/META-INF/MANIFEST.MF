@@ -4,3 +4,7 @@ Bundle-Name: OsgiService2
 Bundle-SymbolicName: OsgiService2
 Bundle-Version: 1.0.0.qualifier
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.springframework.aop;version="3.2.5.RELEASE",
+ org.springframework.beans;version="3.2.5.RELEASE",
+ org.springframework.beans.factory;version="3.2.5.RELEASE",
+ org.springframework.test.context.transaction;version="3.2.2.RELEASE"
