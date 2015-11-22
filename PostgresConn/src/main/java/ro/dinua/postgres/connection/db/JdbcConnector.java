@@ -60,6 +60,8 @@ public class JdbcConnector {
         }
         rs.close();
         st.close();
+
+        ///EXTRA TEXT
     }
 }
 
