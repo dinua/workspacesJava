@@ -54,7 +54,7 @@ public class JdbcConnector {
         }
 
         Statement st = connection.createStatement();
-        ResultSet rs = st.executeQuery("SELECT * FROM test_table");
+        ResultSet rs = st.executeQuery("SELECT * FROM test_table where id_int=1");
         while (rs.next()) {
             System.out.println(rs.getInt(1)+"    " + rs.getFloat(2)+"     "+rs.getString(3)+"       "+rs.getDate(4));
         }
