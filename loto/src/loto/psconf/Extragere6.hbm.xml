@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="loto.psconf.Extragere6" table="EXTRAGERE6">
+		<id name="idExtragere" type="int" column="ID_EXTRAGERE">
+			<generator class="native" />
+		</id>
+		<property name="data" column="DATAEXTRAGERE" type="date" />
+		<property name="numar1" column="NUMAR1" type="int" />
+		<property name="numar2" column="NUMAR2" type="int" />
+		<property name="numar3" column="NUMAR3" type="int" />
+		<property name="numar4" column="NUMAR4" type="int" />
+		<property name="numar5" column="NUMAR5" type="int" />
+		<property name="numar6" column="NUMAR6" type="int" />
+	</class>
+</hibernate-mapping>

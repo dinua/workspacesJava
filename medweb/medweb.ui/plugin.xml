@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         id="medwebapp"
+         point="org.eclipse.core.runtime.applications">
+      <application
+            thread="main"
+            cardinality="singleton-global"
+            visible="true">
+         <run
+               class="com.medweb.ui.application.Application">
+         </run>
+      </application>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectives">
+      <perspective
+            name="Login Perspective"
+            class="com.medweb.ui.application.Perspective"
+            id="com.medweb.ui.application.perspective">
+      </perspective>
+      <perspective
+            class="com.medweb.ui.menu.Perspective"
+            id="com.medweb.ui.menu.perspective"
+            name="Menu Perspective">
+      </perspective>
+   </extension>
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            allowMultiple="true"
+            name="Login View"
+            icon="icons/sample2.gif"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            id="com.medweb.ui.application.loginView">
+      </view>
+      <view
+            allowMultiple="true"
+            class="com.medweb.ui.menu.View"
+            icon="icons/sample2.gif"
+            id="com.medweb.ui.menu.view"
+            name="ContentView">
+      </view>
+      <view
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.menu.navigationView"
+            name="Navigation View">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.pacient.pacinetView"
+            name="Pacient View">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.pacient.pacientInfoView"
+            name="Pacient Info View">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.pacient.pacientNewView"
+            name="New Pacient View">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medic.medicOrarView"
+            name="Medic Orar">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medic.medicInfoView"
+            name="Medic Info">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medic.medicCabinetView"
+            name="Cabinet">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medic.casaAsigurariView"
+            name="Casa Asigurari">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medicamente.sublistaAView"
+            name="SublistaA">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medicamente.sublistaC1View"
+            name="SublistaC1">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medicamente.sublistaC2View"
+            name="SublistaC2">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medicamente.sublistaC3View"
+            name="SublistaC3">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.medicamente.sublistaBView"
+            name="SublistaB">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.pacient.visitHistoryView"
+            name="History">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.pacient.pacinetInactivView"
+            name="Inactiv Patient">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.administrare.utilizatoriActiviView"
+            name="Utilizatori Activi">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.administrare.utilizatorInfoView"
+            name="Utilizator Info">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.administrare.utilizatoriInactiviView"
+            name="Utilizatori Inactivi">
+      </view>
+      <view
+            allowMultiple="true"
+            class="org.eclipse.springframework.util.SpringExtensionFactory"
+            icon="icons/sample3.gif"
+            id="com.medweb.ui.administrare.utilizatorNouView"
+            name="Utilizator Nou">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.rap.ui.branding">
+      <branding
+            servletName="medweb"
+            themeId="org.eclipse.rap.design.example.business.theme"
+            defaultEntrypointId="com.medweb.ui.application.medwebapp"
+            title="MEDWEB"
+            id="com.medweb.ui.application.branding">
+         <presentationFactory
+               defaultLayoutId="org.eclipse.rap.design.example.business.layout"
+               name="Business PresentationFactory"
+               id="org.eclipse.rap.design.example.business.factory">
+            <defaultStackPresentation
+                  id="org.eclipse.rap.design.example.stack.view">
+            </defaultStackPresentation>
+         </presentationFactory>
+      </branding>
+   </extension>
+
+</plugin>
