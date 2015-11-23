@@ -61,14 +61,12 @@ public class JdbcConnector {
             System.out.println(rs.getInt(1)+"    " + rs.getFloat(2)+"     "+rs.getString(3)+"       "+rs.getDate(4));
         }
 
-        // New Text in branch
+        // New Text in branch 1
 
         rs.close();
         st.close();
 
-        //NEW EXTRA TEXT MASTER
-
-        // text after merge
+        ///EXTRA TEXT IN BRANCH
     }
 }
 
