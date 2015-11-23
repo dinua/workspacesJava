@@ -60,10 +60,15 @@ public class JdbcConnector {
         while (rs.next()) {
             System.out.println(rs.getInt(1)+"    " + rs.getFloat(2)+"     "+rs.getString(3)+"       "+rs.getDate(4));
         }
+
+        // New Text in branch
+
         rs.close();
         st.close();
 
         //NEW EXTRA TEXT MASTER
+
+        // text after merge
     }
 }
 
