@@ -56,17 +56,12 @@ public class JdbcConnector {
         // EXTRA TEXT MASTER
 
         Statement st = connection.createStatement();
-        ResultSet rs = st.executeQuery("SELECT * FROM test_table where id_int=1");
+        ResultSet rs = st.executeQuery("SELECT * FROM test_table");
         while (rs.next()) {
             System.out.println(rs.getInt(1)+"    " + rs.getFloat(2)+"     "+rs.getString(3)+"       "+rs.getDate(4));
         }
-
-        // New Text in branch 1
-
         rs.close();
         st.close();
-
-        ///EXTRA TEXT IN BRANCH
     }
 }
 
