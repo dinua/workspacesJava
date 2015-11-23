@@ -53,6 +53,8 @@ public class JdbcConnector {
             System.out.println("Failed to make connection!");
         }
 
+        // EXTRA TEXT MASTER
+
         Statement st = connection.createStatement();
         ResultSet rs = st.executeQuery("SELECT * FROM test_table where id_int=1");
         while (rs.next()) {
