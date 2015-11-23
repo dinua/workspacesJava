@@ -53,7 +53,7 @@ public class JdbcConnector {
             System.out.println("Failed to make connection!");
         }
 
-        // EXTRA TEXT MASTER
+        // EXTRA TEXT MASTER 156546
 
         Statement st = connection.createStatement();
         ResultSet rs = st.executeQuery("SELECT * FROM test_table");
